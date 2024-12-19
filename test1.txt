@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 4A40-E8D4
-
- Directory of C:\Users\lenovo\Desktop\MyProject
-
-19-12-2024  23:40    <DIR>          .
-19-12-2024  23:40    <DIR>          ..
-19-12-2024  23:40                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  63,882,145,792 bytes free
+change 1
